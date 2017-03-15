@@ -1,0 +1,95 @@
+.OrgSeparados {
+    padding: 10px 15px 10px 15px !important;
+}
+.logoGenu {
+  max-width: 300px;
+}
+
+.logoGenuMini {
+  max-width: 180px;
+}
+
+.OrgTam {
+  max-width: 120px;
+}
+
+.Agenda{
+  height:  264px;
+}
+
+.AgendaSec {
+  margin-top: 50px;
+
+}
+
+.AgendaImg {
+  width: 800px;
+  max-width: 90%;
+  display: block;
+  margin: 0 auto;
+}
+
+#Colaboradores{
+    margin-bottom: 15px;
+}
+
+.botonMasInfo{
+  padding-top: 30px;
+  margin: 0 auto;
+  width: 170px;
+
+}
+
+.titulo_orga {
+ margin-bottom: 25px;
+    margin-top: 40px;
+}
+.team_member{
+      /*padding: 20px;*/
+}
+
+.infoTaller {
+  background-image: url(../img/otras/IMG_0367.jpg);
+}
+.infoKids {
+  background-image: url(../img/otras/workspace.jpg);
+}
+
+.infoKidsTable td,th{
+  width: 10px;
+}
+
+.infoKidsTable td:nth-child(2) {
+  width: 600px;
+}
+
+
+@media only screen and (max-width : 768px) {
+ .table {
+   width: 768px !important;
+   max-width: 768px !important;
+ }
+
+ .tablas {
+   margin: 40px 0px !important;
+   width: 100% !important;
+ }
+}
+
+@media only screen and (max-width : 480px) {
+  .tituloGenuino {
+    font-size: 3.5em!important;
+  }
+}
+
+@media only screen and (max-width : 375px) {
+  .tituloGenuino {
+    font-size: 3.0em!important;
+  }
+}
+
+@media only screen and (max-width : 319px) {
+  .tituloGenuino {
+    font-size: 2.5em!important;
+  }
+}
