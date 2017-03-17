@@ -22,6 +22,10 @@
 
 }
 
+.buttonable {
+    color: #fff;
+}
+
 .AgendaImg {
   width: 800px;
   max-width: 90%;
