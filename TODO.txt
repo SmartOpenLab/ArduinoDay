@@ -1,0 +1,5 @@
+- Poner los nuevos iconos en los diferentes horarios.
+- Aclarar todas las descripciones de todas las actividades así como los nombres de los ponentes.
+- ...
+
+* Añadir aquí cualquier cambio que se tenga que realizar después del último commit que hagáis, para que así quede constancia de los fallos y modificaciones que se vean y se quieran hacer *
