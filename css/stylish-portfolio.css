@@ -254,6 +254,7 @@ hr.small {
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    max-width: 240px;
 }
 
 .team_member .avatar {
